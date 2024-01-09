@@ -58,3 +58,11 @@ Support and Feedback
 [Join our Discord](https://dsc.gg/qc-devs) server for assistance, discussions, and to share your valuable feedback. Your input is crucial as we continually refine Purplexity to be the quintessential Discord bot for your evolving community.
 
 Let Purplexity be the catalyst for not just growth, but an unmatched sense of enjoyment in your Discord community!
+
+
+
+
+
+
+
+Testing Webhook

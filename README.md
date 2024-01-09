@@ -34,9 +34,25 @@ Anti Ghost Ping: Nurture a respectful environment by effortlessly quelling disru
 
 - Setup Commands: Tailor Purplexity to your server's unique needs seamlessly with easy setup commands, ensuring a perfect fit.
 ```
+# Installation Guide
+Clone Repository: Begin by cloning the Purplexity repository to your local machine.
+```bash
+git clone https://github.com/Purplexity-bot/Purplexity.git
+```
+
+# Install Dependencies: Navigate to the cloned directory and install the necessary dependencies.
+```bash
+cd Purplexity
+npm install
+```
+
+# Run the Bot: Start Purplexity with the following command.
+```bash
+node index.js
+```
 
 # How to Invite Purplexity
-Elevate your server experience by inviting Purplexity. [Click here](https://dsc.gg/Purplexity)and follow the straightforward setup instructions to unleash the full potential.
+Elevate your server experience by inviting Purplexity. [Click here](https://dsc.gg/Purplexity) and follow the straightforward setup instructions to unleash the full potential.
 
 Support and Feedback
 [Join our Discord](https://dsc.gg/qc-devs) server for assistance, discussions, and to share your valuable feedback. Your input is crucial as we continually refine Purplexity to be the quintessential Discord bot for your evolving community.
